@@ -1,6 +1,6 @@
 '''This program implements a stateful word counter.
 It keep a running count of the words it sees in the stream so far
-and updates it as it encounters new occurunces of the words.
+and updates it as it encounters new occurunces of the words.'''
 
 import sys
 from pyspark import SparkContext
